@@ -13,6 +13,9 @@ const william = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+
+[![Willaim's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvenegas5)](https://github.com/rvenegas5/github-readme-stats)
+
 <!--
 **rvenegas5/rvenegas5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
