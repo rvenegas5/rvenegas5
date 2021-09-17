@@ -15,7 +15,9 @@ const william = {
 ```
 
 [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvenegas5)](https://github.com/rvenegas5/github-readme-stats)
+<br />
 ![William's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rvenegas5&show_icons=true&theme=dracula)
+
 <!--
 **rvenegas5/rvenegas5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
