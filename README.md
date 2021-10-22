@@ -3,14 +3,10 @@
 ```js
 const william = {
   pronouns: "hi" | "him",
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [React, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP],
+  tools: [React, Node, Angular, Styled-Components, Bootstrap, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am focused on learn angular and typescript"
 }
 ```
 
