@@ -26,13 +26,13 @@ const william = {
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/javascript.jpg' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/mongo.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/mysql.png' height='50px'>
+    <img class='m-2' src='https://github.com/rvenegas5/rvenegas5/blob/master/images/postgresql.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/nodejs.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/php.png' height='50px'>
     <img class='m-2' src='https://cdn.freebiesupply.com/logos/large/2x/symfony-logo-png-transparent.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/python.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/react.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/angular.png' height='50px'>
-    <img class='m-2' src='https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png' height='50px'>
     <img class='m-2' src='https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png' height='50px'>
   </p>
 
