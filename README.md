@@ -24,6 +24,7 @@ const william = {
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/c.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/java.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/javascript.jpg' height='50px'>
+    <img class='m-2' src='https://github.com/rvenegas5/rvenegas5/blob/master/images/typescript.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/mongo.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/mysql.png' height='50px'>
     <img class='m-2' src='https://github.com/rvenegas5/rvenegas5/blob/master/images/postgresql.png' height='50px'>
