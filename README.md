@@ -1,4 +1,4 @@
-### Hi, I'm William 👋
+<h2 align="center">Hi, I'm William 👋</h2>
 
 ```js
 const william = {
@@ -6,7 +6,7 @@ const william = {
   code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP],
   tools: [React, Node, Angular, Styled-Components, Bootstrap, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am focused on learn angular and typescript"
+  challenge: "I am focused on learn how work with AWS"
 }
 ```
 <br/>
@@ -32,7 +32,6 @@ const william = {
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/python.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/react.png' height='50px'>
     <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/angular.png' height='50px'>
-    <img class='m-2' src='https://raw.githubusercontent.com/enmanuel-mag/enmanuel-mag/master/skills/vue.png' height='50px'>
     <img class='m-2' src='https://img2.freepng.es/20190301/spw/kisspng-clip-art-logo-yellow-brand-line-aws-logo-transparent-amp-png-clipart-free-downlo-5c794060ba2988.8106720715514502087625.jpg' height='50px'>
   </p>
 
