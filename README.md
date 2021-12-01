@@ -39,6 +39,10 @@ const william = {
 
 <br/>
 <h2 align="center">My stats</h2>
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=rvenegas5) ![](https://img.shields.io/github/stars/rvenegas5?style=social) 
+
 <p aling="center">
   
 [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvenegas5)](https://github.com/rvenegas5/github-readme-stats)
@@ -47,17 +51,9 @@ const william = {
 
 </p>
 
-<!--
-**rvenegas5/rvenegas5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<p align="center">
+<a href="https://twitter.com/wi_venegas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="williamvenegas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/william-venegas-62620b1b1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/wi_venegas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="william123" height="30" width="40" /></a>
+</p>
