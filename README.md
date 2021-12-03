@@ -9,7 +9,6 @@ const william = {
   challenge: "I am focused on learn C# with .NET"
 }
 ```
-<br/>
   <h2 align="center">Skills</h2>
   <p align="center">A summary of my programming skills.</p>
   <p align="center">
@@ -37,7 +36,6 @@ const william = {
     <!-- <img class='m-2' src='https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png' height='50px'> -->
   </p>
 
-<br/>
 <h2 align="center">My stats</h2>
 <div align="center">
   
