@@ -6,7 +6,7 @@ const william = {
   code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP, C],
   tools: [React, Node, Angular, Styled-Components, Bootstrap, Symfony],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am focused on learn C# with .NET"
+  challenge: "I am focused on learn AWS"
 }
 ```
   <h2 align="center">Skills</h2>
