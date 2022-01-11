@@ -2,7 +2,7 @@
 
 ```js
 const william = {
-  pronouns: "hi" | "him",
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP, C],
   tools: [React, Node, Angular, Styled-Components, Bootstrap, Symfony],
   architecture: ["microservices", "event-driven", "design system pattern"],
