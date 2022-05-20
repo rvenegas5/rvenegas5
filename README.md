@@ -4,7 +4,7 @@
 const william = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP, C],
-  tools: [React, Node, Angular, Styled-Components, Bootstrap, Symfony],
+  tools: [React, React Native, Node, Angular, Styled-Components, Bootstrap, Symfony],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "I am focused on learn AWS"
 }
