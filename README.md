@@ -3,10 +3,10 @@
 ```js
 const william = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP, C],
-  tools: [React, React Native, Node, Angular, Styled-Components, Bootstrap, Symfony],
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, C],
+  tools: [NextJS, React, Node, Angular, Tailwind],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am focused on learn AWS"
+  challenge: "I am focused on learn French"
 }
 ```
   <h2 align="center">Skills</h2>
