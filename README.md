@@ -4,7 +4,7 @@
 const william = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java, C],
-  tools: [NextJS, React, Node, Angular, Tailwind],
+  tools: [NextJS, React, Node, Angular, Tailwind, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "I am focused on learn French"
 }
